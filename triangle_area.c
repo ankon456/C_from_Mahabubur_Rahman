@@ -1,7 +1,7 @@
 /*
 Finding area of isosceles triangle
 triangle_area.c 
-practice.c
+practice8.c
 */
 
 #include <stdio.h>
